@@ -6,6 +6,8 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.Test;
+
+
 import com.in28minutes.junit.business.ClientBO;
 import com.in28minutes.junit.business.ClientBOImpl;
 import com.in28minutes.junit.business.exception.DifferentCurrenciesException;
