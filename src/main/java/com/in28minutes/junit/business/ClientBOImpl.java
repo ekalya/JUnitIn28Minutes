@@ -60,4 +60,13 @@ public class ClientBOImpl implements ClientBO {
 
 		return true;
 	}
+        public void getData() throws Exception{
+            try{
+                System.out.println("Good stuff"); 
+            }
+            catch(Exception ex){
+                System.out.println("Error:"+ex.getMessage());
+                throw ex;
+            }
+        }
 }

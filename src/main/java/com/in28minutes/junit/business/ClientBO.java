@@ -6,7 +6,7 @@ import com.in28minutes.junit.model.Amount;
 import com.in28minutes.junit.model.Product;
 
 /**
- *
+ * Sample Class
  * @author elisha
  */
 public interface ClientBO {
